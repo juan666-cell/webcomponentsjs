@@ -46,7 +46,7 @@
     "google-closure-compiler": "^20180805.0.0",
     "gulp": "^3.8.8",
     "gulp-babel": "^7.0.1",
-    "gulp-rename": "^1.4.0",
+    "gulp-rename": "^2.0.0",
     "gulp-rollup": "^2.16.2",
     "gulp-sourcemaps": "^2.6.5",
     "promise-polyfill": "^8.0.0",
